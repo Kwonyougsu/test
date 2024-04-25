@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\bin\Debug\net8.0\RtanTextRpg.exe
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\bin\Debug\net8.0\RtanTextRpg.deps.json
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\bin\Debug\net8.0\RtanTextRpg.runtimeconfig.json
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\bin\Debug\net8.0\RtanTextRpg.dll
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\bin\Debug\net8.0\RtanTextRpg.pdb
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\RtanTextRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\RtanTextRpg.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\RtanTextRpg.AssemblyInfo.cs
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\RtanTextRpg.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\RtanTextRpg.dll
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\refint\RtanTextRpg.dll
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\RtanTextRpg.pdb
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\RtanTextRpg.genruntimeconfig.cache
+C:\Users\user\source\repos\RtanTextRpg\RtanTextRpg\obj\Debug\net8.0\ref\RtanTextRpg.dll
