@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\RtanDungenRpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F29853-0E69-4983-9488-F06AE103AD55}|RtanDungenRpg\\RtanDungenRpg.csproj|c:\\users\\user\\source\\repos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F29853-0E69-4983-9488-F06AE103AD55}|RtanDungenRpg\\RtanDungenRpg.csproj|c:\\users\\user\\source\\repos\\rtandungenrpg\\rtandungenrpg\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F29853-0E69-4983-9488-F06AE103AD55}|RtanDungenRpg\\RtanDungenRpg.csproj|solutionrelative:rtandungenrpg\\consoleutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F29853-0E69-4983-9488-F06AE103AD55}|RtanDungenRpg\\RtanDungenRpg.csproj|c:\\users\\user\\source\\repos\\rtandungenrpg\\rtandungenrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F29853-0E69-4983-9488-F06AE103AD55}|RtanDungenRpg\\RtanDungenRpg.csproj|solutionrelative:rtandungenrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F29853-0E69-4983-9488-F06AE103AD55}|RtanDungenRpg\\RtanDungenRpg.csproj|c:\\users\\user\\source\\repos\\rtandungenrpg\\rtandungenrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F29853-0E69-4983-9488-F06AE103AD55}|RtanDungenRpg\\RtanDungenRpg.csproj|solutionrelative:rtandungenrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RtanDungenRpg\\RtanDungenRpg\\player.cs",
+              "RelativeDocumentMoniker": "RtanDungenRpg\\player.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RtanDungenRpg\\RtanDungenRpg\\player.cs",
+              "RelativeToolTip": "RtanDungenRpg\\player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:13:38.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RtanDungenRpg\\RtanDungenRpg\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "RtanDungenRpg\\ConsoleUtility.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RtanDungenRpg\\RtanDungenRpg\\ConsoleUtility.cs",
+              "RelativeToolTip": "RtanDungenRpg\\ConsoleUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:11:52.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RtanDungenRpg\\RtanDungenRpg\\Item.cs",
+              "RelativeDocumentMoniker": "RtanDungenRpg\\Item.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RtanDungenRpg\\RtanDungenRpg\\Item.cs",
+              "RelativeToolTip": "RtanDungenRpg\\Item.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:11:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Program.cs",
+              "RelativeToolTip": "..\\Program.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAgwJkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:08:16.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
